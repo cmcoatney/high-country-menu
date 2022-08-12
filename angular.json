@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "menu": "apps/menu",
+    "menu-e2e": "apps/menu-e2e"
+  }
+}
